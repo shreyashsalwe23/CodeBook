@@ -50,7 +50,8 @@ The goal is to illustrate how you can build a recommendation engine from scratch
    ```bash
    git clone https://github.com/shreyashsalwe23/CodeBook.git
    cd CodeBook
-````
+
+   ```
 
 2. (Optional) Create a virtual environment:
 
@@ -159,6 +160,3 @@ GitHub: [shreyashsalwe23](https://github.com/shreyashsalwe23)
 
 ```
 
-
-::contentReference[oaicite:1]{index=1}
-```
