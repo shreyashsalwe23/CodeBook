@@ -155,8 +155,6 @@ Created by **Shreyash Salwe** – feel free to reach out if you have questions o
 GitHub: [shreyashsalwe23](https://github.com/shreyashsalwe23)
 
 ---
-
 *Thanks for checking out CodeBook — happy exploring and coding!*
-
 ```
 
